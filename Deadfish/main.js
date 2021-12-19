@@ -1,10 +1,10 @@
 var num = 0;
 
 function input() {
-    //var code = document.getElementById("input").value;
+    var code = document.getElementById("input").value;
     //console.log(code);
 
-    //var funcs = code.split("");
+    var funcs = code.split("");
     //console.log(funcs);
 
     for (let i = 0; i < funcs.length; i++) {
