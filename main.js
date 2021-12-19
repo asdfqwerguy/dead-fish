@@ -31,7 +31,7 @@ function input() {
         }
         else if (num == -1)
         {
-            num = 255;
+            num = 0;
         }
     }
 
